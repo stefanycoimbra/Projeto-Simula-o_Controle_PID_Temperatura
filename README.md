@@ -5,3 +5,5 @@ Projeto de Simulação de Controle PID de Temperatura usando MPLAB X IDE e PICGe
 Autor(a): Stéfany Coura Coimbra 
 
 Projeto realizado na disciplina de Programação Embarcada, do Curso de Engenharia de Computação, Unifei, Itajubá
+
+Link para o vídeo com a explicação sobre o projeto: https://www.youtube.com/watch?v=xYkLISVKYBw
